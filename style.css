@@ -1,0 +1,40 @@
+#greet{
+    background-color: black;
+    display:flex;
+    justify-content: center;
+}
+#hi{
+    border: 1px solid black;
+    display:flex;
+    justify-content: center;
+    margin:auto;
+    width: 250px;
+    margin-top: 20px
+}
+.Restart{
+    background-color: white;
+    color: black;
+    display:flex;
+    margin:auto;
+    margin: bottom 100px;
+    width: 20%;
+    justify-content: center;
+    margin-top: 15px
+}
+.sim{
+    display:flex;
+    justify-content: center;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: limegreen;
+    margin: 2px;
+}
+.class{
+    display:flex;
+    justify-content: center;
+}
+.me{
+    background-color: orange;
+}
