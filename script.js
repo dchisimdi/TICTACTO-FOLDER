@@ -30,7 +30,7 @@ for (let box of boxes) {
 let controlBtn = document.getElementById("controlBtn");
 
 controlBtn.addEventListener("click", () => {
-    window.location.href = "tictacto-game.html";
+    window.location.href = "index.html";
 })
 
 //function to check when the game is won
