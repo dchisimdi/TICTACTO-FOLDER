@@ -4,6 +4,8 @@
     justify-content: center;
 }
 #hi{
+    background-color: red;
+    border-radius: 5px;
     border: 1px solid black;
     display:flex;
     justify-content: center;
@@ -12,8 +14,8 @@
     margin-top: 20px
 }
 .Restart{
-    background-color: white;
-    color: black;
+    background-color: blue;
+    color:black;
     display:flex;
     margin:auto;
     margin: bottom 100px;
@@ -29,12 +31,17 @@
     width: 100px;
     height: 100px;
     background-color: limegreen;
-    margin: 2px;
+    margin: 1px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 50px;
 }
 .class{
     display:flex;
     justify-content: center;
+    font-size: 70px
 }
 .me{
-    background-color: orange;
+    background-image: linear-gradient(orange,blue,yellow);
 }
